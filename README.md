@@ -1,5 +1,5 @@
 # GCI JBossOutreach
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/6e498db47687428fb7acda6304b8e63f)](https://www.codacy.com/app/Mickle-Liutov/gci18.jbossoutreach.org?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=JBossOutreach/gci18.jbossoutreach.org&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/6e498db47687428fb7acda6304b8e63f)](https://www.codacy.com/app/JBossOutreach/gci18.jbossoutreach.org?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=JBossOutreach/gci18.jbossoutreach.org&amp;utm_campaign=Badge_Grade)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.2.
 
